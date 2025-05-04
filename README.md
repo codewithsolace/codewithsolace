@@ -20,7 +20,7 @@ I am passionate frontend developer in training at ALX Africa, with a background 
 - 👋 @codewithsolace
 - 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate with mteam to build something special
+- 💞️ I’m looking to collaborate with my team to build something special
 - ⚡ Fun fact: i love football
 
 <!---
