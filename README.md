@@ -17,11 +17,11 @@ I am passionate frontend developer in training at ALX Africa, with a background 
 
 
 
-- 👋 Hi, I’m @codewithsolace
+- 👋 @codewithsolace
 - 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning some programming languages to improve my skills
 - 💞️ I’m looking to collaborate with mteam to build something special
-- ⚡ Fun fact: call me solace
+- ⚡ Fun fact: i love football
 
 <!---
 codewithsolace/codewithsolace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
